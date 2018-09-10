@@ -1,2 +1,2 @@
 # katas-python
-This repositoty holds all the python katas and scripts
+This repository holds all the python katas and scripts
